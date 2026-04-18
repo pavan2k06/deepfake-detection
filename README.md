@@ -88,7 +88,7 @@ pip install tensorflow opencv-python numpy streamlit
 ⚠️ The trained model file is not included due to size limitations.
 
 👉 Download the model from:
-[Add your Google Drive / Kaggle link here]
+[https://drive.google.com/file/d/1RfR_tFmGgufjD5zEOUum8ttgU9AtxrtF/view?usp=drive_link]
 
 After downloading:
 

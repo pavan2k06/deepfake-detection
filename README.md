@@ -138,10 +138,11 @@ deepfake-detection/
 * Visual output in UI
 
 <img width="1920" height="1080" alt="Screenshot 2026-04-15 095022" src="https://github.com/user-attachments/assets/d766685f-53e7-4775-870b-31b06a816ac5" />
-<img width="1920" height="1080" alt="Screenshot 2026-04-15 095123" src="https://github.com/user-attachments/assets/6391cc14-097f-4a25-a554-362007a332b7" />
 <img width="1920" height="1080" alt="Screenshot 2026-04-15 095040" src="https://github.com/user-attachments/assets/da492eba-5d34-49f4-9121-20e50e8960d7" />
-<img width="1920" height="1080" alt="Screenshot 2026-04-15 095216" src="https://github.com/user-attachments/assets/ed0fd761-7deb-4224-9566-f858c95e5466" />
+<img width="1920" height="1080" alt="Screenshot 2026-04-15 095123" src="https://github.com/user-attachments/assets/6391cc14-097f-4a25-a554-362007a332b7" />
 <img width="1920" height="1080" alt="Screenshot 2026-04-15 095300" src="https://github.com/user-attachments/assets/cc970693-43e6-42ad-86af-ec2f75a0a66b" />
+<img width="1920" height="1080" alt="Screenshot 2026-04-15 095216" src="https://github.com/user-attachments/assets/ed0fd761-7deb-4224-9566-f858c95e5466" />
+
 
 
 

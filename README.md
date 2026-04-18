@@ -137,7 +137,8 @@ deepfake-detection/
 * Shows confidence score
 * Visual output in UI
 
-(Add screenshots here)
+<img width="1920" height="1080" alt="Screenshot 2026-04-15 095022" src="https://github.com/user-attachments/assets/d766685f-53e7-4775-870b-31b06a816ac5" />
+
 
 ---
 

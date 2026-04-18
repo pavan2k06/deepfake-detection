@@ -6,12 +6,21 @@ from tensorflow.keras.applications.efficientnet import preprocess_input
 import plotly.graph_objects as go
 import cv2
 import time
+import os
+import gdown
 
 # ---------------------------
 # CONFIG
 # ---------------------------
 IMG_SIZE = 224
-MODEL_PATH = r"C:\Users\m.pavan\Documents\MAJORPROJECT\deepfake_model_final.h5"
+MODEL_PATH = "deepfake_model_final.h5"
+# ---------------------------
+# DOWNLOAD MODEL (FOR DEPLOYMENT)
+# ---------------------------
+if not os.path.exists(MODEL_PATH):
+    with st.spinner("Downloading model... Please wait ⏳"):
+        url = "https://drive.google.com/uc?id=1RfR_tFmGgufjD5zEOUum8ttgU9AtxrtF"
+        gdown.download(url, MODEL_PATH, quiet=False)
 
 st.set_page_config(page_title="Deepfake Detection System", layout="wide")
 
